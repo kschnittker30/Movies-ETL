@@ -3,6 +3,7 @@ wikipedia-movies.json
 movies_metadata.csv
 ratings.csv
 Movies-ETL - Copy.ipynb
+Config
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
