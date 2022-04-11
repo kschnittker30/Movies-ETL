@@ -1,9 +1,10 @@
-# Adding large data file.
+# Adding large data file & Config file.
 wikipedia-movies.json
 movies_metadata.csv
 ratings.csv
 Movies-ETL - Copy.ipynb
 Config.ipynb
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
